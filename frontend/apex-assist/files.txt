@@ -1,0 +1,13 @@
+files.txt
+index.html
+netlify.toml
+package.json
+package-lock.json
+postcss.config.js
+public
+README.md
+src
+tailwind.config.ts
+tsconfig.json
+tsconfig.node.json
+vite.config.ts

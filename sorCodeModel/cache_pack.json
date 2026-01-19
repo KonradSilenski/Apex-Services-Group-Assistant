@@ -1,0 +1,3201 @@
+{
+  "9e75201f890edd9e": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "ridge"
+      ],
+      [
+        "rebed",
+        "ridge"
+      ],
+      [
+        "renew",
+        "ridge"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "03f534424eab5a3e": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "ee57ef4e0cabe98e": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "slate",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "4a3ff4514a110d87": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "refix",
+        "gutter"
+      ],
+      [
+        "renew",
+        "flashing"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "38b17ad8f8726fbf": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 5.0
+      }
+    }
+  },
+  "714677c4b7637842": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "067479a349ddd177": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "tile"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "84211d125273689b": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "dbda3b366ba3dfbb": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": true,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "11c13cf655332c1b": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": true
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "c289287adef022d9": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "0d0bcac875c5c473": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "1e902d0ad74aa4a5": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ],
+      [
+        "refix",
+        "flashing"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 12.0
+      }
+    }
+  },
+  "72da3a267543c122": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 8.0
+      }
+    }
+  },
+  "017b13416fd4a625": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 7.0
+      }
+    }
+  },
+  "c3be80d18c451e10": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 3.0
+      }
+    }
+  },
+  "c1362aa0631345af": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": true,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "766406d2d9132e00": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 9.0
+      }
+    }
+  },
+  "9ce8238605063315": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ],
+      [
+        "refix",
+        "flashing"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 10.0
+      }
+    }
+  },
+  "d6357f7a5181a68f": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": true,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 1.0
+      },
+      "tiles": {
+        "each": 2.0
+      }
+    }
+  },
+  "66d683bcea2d209b": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "repoint",
+        "valley"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": true,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "3be034c6b779f979": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "refix",
+        "flashing"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "b68cfe357bf6b7c6": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 2.0
+      }
+    }
+  },
+  "8c5215f9ef692756": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "rebed",
+        "ridge"
+      ],
+      [
+        "renew",
+        "flashing"
+      ],
+      [
+        "renew",
+        "tile"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "0b1788341aca60e6": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "rebed",
+        "ridge"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 1.0
+      },
+      "ridge": {
+        "each": 3.0
+      }
+    }
+  },
+  "5bf5b35faf5f4a2d": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ],
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "83f880d15cb5dc48": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ],
+      [
+        "renew",
+        "downpipe"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 5.0
+      }
+    }
+  },
+  "a591ef717abf20e8": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "downpipe"
+      ],
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 8.0
+      }
+    }
+  },
+  "9a7c2ee7dac33de2": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 7.0
+      }
+    }
+  },
+  "0cb243fc0b715b41": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "verge"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": true
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "3ac200e9a0a06fb7": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "ridge"
+      ],
+      [
+        "repoint",
+        "ridge"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "ridge": {
+        "lm": 4.0
+      }
+    }
+  },
+  "6723a7bc4a23d0c9": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "soffit": {
+        "lm": 7.0
+      },
+      "gutter": {
+        "lm": 7.0
+      }
+    }
+  },
+  "82de81310f0a25b4": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 6.0
+      }
+    }
+  },
+  "6234126bc477e547": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "rebed",
+        "ridge"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "ridge": {
+        "each": 3.0
+      }
+    }
+  },
+  "efb6a5fa8bbcbc0a": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "repoint",
+        "flashing"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "ea32b1d779cfbb4d": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "soffit": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "fca985a3ea3fa655": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "gutter": {
+        "lm": 6.0
+      }
+    }
+  },
+  "37ada6382f17c929": {
+    "families": {
+      "leadwork": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "tile": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "slate",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "dab075a24a704d99": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "downpipe": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "soffit": {
+        "lm": 14.0
+      },
+      "gutter": {
+        "lm": 14.0
+      }
+    }
+  },
+  "3dec7a6ea6a47cc6": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": true,
+        "strength": "SOFT"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "slate",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "renew",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": true,
+      "scaffold_mentions": true,
+      "valley_present": true,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "9c4a4fe478f0ea3f": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 1.0
+      }
+    }
+  },
+  "7105195870828c96": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": true,
+        "strength": "SOFT"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {}
+  },
+  "4c019337fb1a3073": {
+    "families": {
+      "leadwork": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "tile": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "guttering": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "downpipe": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "ridge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "chimney": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "fascia": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "soffit": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "verge": {
+        "present": false,
+        "strength": "NONE"
+      },
+      "valley": {
+        "present": false,
+        "strength": "NONE"
+      }
+    },
+    "meas": {
+      "lead_lm": 0.0,
+      "tile_area": 0.0,
+      "fascia_lm": 0.0,
+      "soffit_lm": 0.0,
+      "gutter_flag": false,
+      "rwp_present": false
+    },
+    "tile": {
+      "subtype_hint": "",
+      "count_hint": "",
+      "small_job": false
+    },
+    "intents": [
+      [
+        "clean",
+        "gutter"
+      ]
+    ],
+    "flags": {
+      "clean_gutter_intent": false,
+      "elevation_mentions": false,
+      "scaffold_mentions": false,
+      "valley_present": false,
+      "verge_present": false
+    },
+    "fields_present": [],
+    "fields_filled": {},
+    "text_quant_hints": {
+      "lead": {
+        "lm": 16.0
+      }
+    }
+  }
+}
